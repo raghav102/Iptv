@@ -11,7 +11,7 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8?__hdnea__=st=1699879381~exp=1699965781~acl=/*~hmac=2a0337b22c2d2c9cebc52b4d4bfd1e5d389759a973ed897e168ebf3d159d72ca
 #EXTINF:-,group-title="India",tv9
 https://dai.google.com/linear/hls/pb/event/U-L31eanQs-GTFnMCFU_Vg/stream/94e1ef9a-5422-4ca6-846f-9e1399897009:SIN/master.m3u8
-EXTINF:-,group-title="India",india tv
+#EXTINF:-,group-title="India",india tv
 https://d50qnpqwt8ynw.cloudfront.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-,group-title="India",abp
 https://dai.google.com/linear/hls/pb/event/BtGIUK8MTGqFTQ0pZZ9Bsg/stream/cc27900d-b67e-437f-b6f4-70e7deecf0a6:SIN/master.m3u8
