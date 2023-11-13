@@ -9,8 +9,12 @@ https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-,group-title="India",news 18
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8?__hdnea__=st=1699879381~exp=1699965781~acl=/*~hmac=2a0337b22c2d2c9cebc52b4d4bfd1e5d389759a973ed897e168ebf3d159d72ca
-#EXTINF:-,group-title="tv9",news
-https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-,group-title="India",tv9
+https://dai.google.com/linear/hls/pb/event/U-L31eanQs-GTFnMCFU_Vg/stream/94e1ef9a-5422-4ca6-846f-9e1399897009:SIN/master.m3u8
+EXTINF:-,group-title="India",india tv
+https://d50qnpqwt8ynw.cloudfront.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-,group-title="India",abp
+https://dai.google.com/linear/hls/pb/event/BtGIUK8MTGqFTQ0pZZ9Bsg/stream/cc27900d-b67e-437f-b6f4-70e7deecf0a6:SIN/master.m3u8
 #EXTINF:-,group-title="India",six
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-,group-title="India",cricket 
