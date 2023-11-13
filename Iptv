@@ -3,6 +3,8 @@
 https://feeds.intoday.in/gnt/api/master.m3u8
 #EXTINF:-,group-title="India",aaj tak hd
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-,group-title="India",zeenews
+https://dknttpxmr0dwf.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTk4ODMzMzF9.cieIRQGvl51satColdtBmtwcft8I_GTLyHNKbF9X14g
 #EXTINF:-,group-title="India",ten 3
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-,group-title="India",news 18
